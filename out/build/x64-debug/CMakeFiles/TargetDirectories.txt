@@ -1,0 +1,7 @@
+C:/Users/iagos/OneDrive/Área de Trabalho/Projetos/C++/SFMLRPG/out/build/x64-debug/CMakeFiles/SFMLRPG.dir
+C:/Users/iagos/OneDrive/Área de Trabalho/Projetos/C++/SFMLRPG/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/iagos/OneDrive/Área de Trabalho/Projetos/C++/SFMLRPG/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/iagos/OneDrive/Área de Trabalho/Projetos/C++/SFMLRPG/out/build/x64-debug/dependencies/CMakeFiles/edit_cache.dir
+C:/Users/iagos/OneDrive/Área de Trabalho/Projetos/C++/SFMLRPG/out/build/x64-debug/dependencies/CMakeFiles/rebuild_cache.dir
+C:/Users/iagos/OneDrive/Área de Trabalho/Projetos/C++/SFMLRPG/out/build/x64-debug/dependencies/SFML/CMakeFiles/edit_cache.dir
+C:/Users/iagos/OneDrive/Área de Trabalho/Projetos/C++/SFMLRPG/out/build/x64-debug/dependencies/SFML/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,92 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "dependencies",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-dependencies-Debug-213773dd22be3796fa39.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "dependencies"
+				},
+				{
+					"build" : "dependencies/SFML",
+					"jsonFile" : "directory-dependencies.SFML-Debug-06d88c5342f6ac4902c9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "dependencies/SFML"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "SFMLRPG",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SFMLRPG::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SFMLRPG-Debug-22fae599df29e0a7ed63.json",
+					"name" : "SFMLRPG",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/iagos/OneDrive/\u00c1rea de Trabalho/Projetos/C++/SFMLRPG/out/build/x64-debug",
+		"source" : "C:/Users/iagos/OneDrive/\u00c1rea de Trabalho/Projetos/C++/SFMLRPG"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
